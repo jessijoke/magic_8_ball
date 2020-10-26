@@ -1,0 +1,5 @@
+require_relative '../lib/8_ball_methods.rb'
+
+game = Magic_8_ball.new
+
+game.play
